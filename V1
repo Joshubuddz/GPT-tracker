@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GPT Tracker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header, footer {
+            background-color: #ff8c00;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        main {
+            padding: 20px;
+        }
+        .content {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>GPT Tracker</h1>
+    </header>
+    <main>
+        <div class="content">
+            <h2>Welcome to GPT Tracker</h2>
+            <p>We track and store your conversations between ChatGPT so you never have to train it and waste messages to retrain.</p>
+            <h3>Unique Selling Proposition</h3>
+            <p>Tracks all the conversations.</p>
+            <h3>Contact Information</h3>
+            <p>Email: joshuabudddz@gmail.com</p>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 GPT Tracker. All rights reserved.</p>
+    </footer>
+</body>
+</html>
